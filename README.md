@@ -5,6 +5,8 @@ Shopsky is your one-stop shopping solution.
 
 This mobile application is built as part of the Sekawan Media Mobile Developer Internship Test. It provides a seamless and convenient shopping experience with various features, including product browsing, detailed product views, and an intuitive user interface.
 
+API provided from : https://dummyjson.com/
+
 
 
 
